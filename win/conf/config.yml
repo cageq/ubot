@@ -1,0 +1,11 @@
+
+
+
+
+#model: ./models/chatglm2.bin
+#model: ./models/chatglm2.bin
+model: .\models\chatglm2.bin
+
+threads: 0
+sd_model: 
+
